@@ -1,2 +1,3 @@
 # vinyl
-Flutter-Projekt zum Archivieren/Inventarisieren con CD's, Platten und Ähnlichen 
+
+Gimmick zum Archivieren und Inventarisieren con CD's, Platten und ähnlichen Dingen.
